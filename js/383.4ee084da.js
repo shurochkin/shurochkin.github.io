@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkmapbox"]=globalThis["webpackChunkmapbox"]||[]).push([[383],{2383:(a,n,e)=>{e.r(n),e.d(n,{default:()=>c});var o=e(9835);function r(a,n,e,r,t,u){const s=(0,o.up)("router-view");return(0,o.wg)(),(0,o.j4)(s)}const t=(0,o.aZ)({name:"MainLayout"});var u=e(1639);const s=(0,u.Z)(t,[["render",r]]),c=s}}]);
